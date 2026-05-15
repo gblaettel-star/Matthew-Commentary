@@ -1,0 +1,8 @@
+{
+  "name": "Matthew Commentary",
+  "short_name": "Matthew",
+  "start_url": "/matthew-commentary/",
+  "display": "standalone",
+  "background_color": "#f8f9fc",
+  "theme_color": "#2c4a7c"
+}
