@@ -1,4 +1,4 @@
-const CACHE = 'matthew-v2';
+const CACHE = 'matthew-v3';
 const ASSETS = ['./', './index.html'];
 
 self.addEventListener('install', e => {
